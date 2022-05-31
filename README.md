@@ -9,6 +9,7 @@ Contoh dalam bahasa coding html
 5. Height=" " : tinggi
 
 Singkatan HTML : hyper text markup language.
+
 Definisi : HTML adalah suatu bahasa yang
 menggunakan Tanda tanda tertentu (tag) untuk
 menyatakan kode yang harus di Jalankan dalam suatu
