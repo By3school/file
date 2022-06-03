@@ -8,6 +8,9 @@ Contoh dalam bahasa coding html
 4. Width=" " : lebar
 5. Height=" " : tinggi
 6. <a herf=" " : link
+7. Align="left" : kiri
+8. Align="right" : kanan
+9. Align="center" : tengah
 
 Singkatan HTML : hyper text markup language.
 
