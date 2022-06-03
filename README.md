@@ -7,6 +7,7 @@ Contoh dalam bahasa coding html
 3. < =""> pembuka kalimat dengan tambahan script
 4. Width=" " : lebar
 5. Height=" " : tinggi
+6. <a herf=" " : link
 
 Singkatan HTML : hyper text markup language.
 
