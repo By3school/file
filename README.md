@@ -9,7 +9,7 @@ Contoh dalam bahasa coding html
 5. Height=" " : tinggi
 6. <a herf=" " : link
 7. Align="left" : kalimat dikiri
-8. Align="right" : kaimat dikanan
+8. Align="right" : kalimat dikanan
 9. Align="center" : kalimat ditengah
 
 Singkatan HTML : hyper text markup language.
